@@ -1,0 +1,16 @@
+@media screen and (max-width: 1000px) {
+  .navbar {
+    flex-direction: column;
+    height: 30vh;
+    padding-top: 20px;
+  }
+  .navbar ul {
+    flex-direction: column;
+  }
+  .navbar ul li{
+    margin: 5px 0;
+  }
+  .searchbar{
+    width: 30vw;
+  }
+}
